@@ -1,0 +1,28 @@
+.container {
+  height: 85%;
+}
+
+i {
+  padding-right: 0.6rem;
+}
+
+mat-sidenav {
+  background-color: dimgrey;
+  border: 5px;
+  border-color: black;
+  border-style: double;
+}
+
+mat-nav-list a {
+  color: black;
+  font-weight: 500;
+}
+
+mat-nav-list a:hover {
+  color: darkgoldenrod;
+  font-weight: 500;
+}
+
+mat-nav-list a i {
+  color: darkgoldenrod;
+}
